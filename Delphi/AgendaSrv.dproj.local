@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.167,D:\Magno_Vue\magno\Back-end\Delphi\Unit1.pas=D:\Magno_Vue\magno\Back-end\Delphi\App.Router.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.003,D:\Magno_Vue\magno\Back-end\Delphi\Unit1.pas=D:\Magno_Vue\magno\Back-end\Delphi\App.Service.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.580,D:\Magno_Vue\magno\Back-end\Delphi\Unit1.pas=D:\Magno_Vue\magno\Back-end\Delphi\uDM.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.049,=C:\Users\alexa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.230,=D:\Magno_Vue\magno\Back-end\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.971,C:\Users\alexa\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Magno_Vue\magno\Back-end\Delphi\AgendaSrv.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.580,D:\Magno_Vue\magno\Back-end\Delphi\Unit1.dfm=D:\Magno_Vue\magno\Back-end\Delphi\uDM.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.900,=D:\Magno_Vue\magno\Back-end\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.427,=D:\Magno_Vue\magno\Back-end\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.816,=C:\Users\alexa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.215,=C:\Users\alexa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.284,=C:\Users\alexa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.909,=C:\Users\alexa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.291,=C:\Users\alexa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.238,=C:\Users\alexa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.609,=C:\Users\alexa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.163,=C:\Users\alexa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.222,=C:\Users\alexa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.022,=C:\Users\alexa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024-01-16 12:27:22.461,=E:\02.Delphi开发资料\01.delphi\02.DEMo\01.SemanaHashload-main\SemanaHashload-main\Back-end\Delphi\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="App.BaseService .pas"/>
+    <File Path="App.Router.pas"/>
+    <File Path="App.Service.pas"/>
+    <File Path="uDM.pas"/>
+    <File Path="uDM.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
