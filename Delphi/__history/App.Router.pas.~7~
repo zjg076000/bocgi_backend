@@ -49,16 +49,6 @@ begin
 end;
 
 
-procedure OnSoftVersion(AReq: THorseRequest; ARes: THorseResponse);
-var
- sql:string;
-begin
-  sql:='select * from App_SoftVersion order by Id';
-  ARes.ContentType('application/json; charset=utf-8')
-      .send(TBaseService.Instance.Tipos(sql));
-
-end;
-
 procedure OnContatosGet(AReq: THorseRequest; ARes: THorseResponse);
 begin
   ARes.ContentType('application/json')
@@ -89,7 +79,6 @@ begin
 
   THorse.Get('/tipos', OnTipos)
         .Get('/tipos2', OnTipos2)
-        .Get('/softversion',onSoftVersion)
         .Get('/contatos', OnContatosGet)
         .Post('/contatos', OnContatoPost)
         .Put('/contatos/:id', OnContatoPut)

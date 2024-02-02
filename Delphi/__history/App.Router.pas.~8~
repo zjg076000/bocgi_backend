@@ -89,7 +89,7 @@ begin
 
   THorse.Get('/tipos', OnTipos)
         .Get('/tipos2', OnTipos2)
-        .Get('/softversion',onSoftVersion)
+        .Get('/softversion',onSoftversion)
         .Get('/contatos', OnContatosGet)
         .Post('/contatos', OnContatoPost)
         .Put('/contatos/:id', OnContatoPut)
